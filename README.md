@@ -1,3 +1,3 @@
 # First Year Project BSc Mathematics
-## University of Groningen
-## 2025
+
+University of Groningen, 2025
